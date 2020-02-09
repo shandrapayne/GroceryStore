@@ -1,4 +1,6 @@
 ### CHECKOUT ####
+
+
     # ability to add a coupon and adjust total
     # calculate total with tax
     # allow user to "pay" with wallet

@@ -1,11 +1,5 @@
 # GroceryStore
 
-This is a project I initially made during a Full Stack Developer Bootcamp in 2019 with [DevPoint Labs](https://www.devpointlabs.com/)
-
-I decided to rebuild it from scratch. I take no credit for the idea & objectives. That
-belongs to [@nightwing891](https://github.com/nightwing891)
-
-
 ### Basic Objectives
   - Display a menu in the console for the user to interact with. 
   - Create a nested hash that represent items at a grocery store. 

@@ -1,6 +1,8 @@
+require_relative 'wallet.rb'
+
  # Show Total
  # user can see current total (pre-tax)
- # user can check balance of funds in wallet
+ # user can double check balance of funds in wallet
 
  def show_total
     puts "show total here"
